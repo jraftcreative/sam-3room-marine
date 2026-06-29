@@ -1,0 +1,23 @@
+::1 - - [29/Jun/2026 17:29:14] "GET /index.html HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /index.html?s=4&export=1 HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /logo.png HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /cover.jpg HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /floorplan.png?v=2 HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /kitchen-light.jpg?v=1 HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /kitchen-dark.jpg?v=1 HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /living-fw.jpg?v=3 HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /living-storage.png?v=2 HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /master-bed.png HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /common-bed.jpg?v=3 HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /master-bath.jpg?v=2 HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /master-bath2.jpg?v=1 HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /common-bath.jpg?v=3 HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /mb-1772797583328-f83bc3f94f80.jpg HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /mb-1747538454766-9f4f99a2de8f.jpg HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /mb-1759262151001-3f8841d02ce1.jpg HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /mb-1604578762246-41134e37f9cc.jpg HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /mb-1684165610413-2401399e0e59.jpg HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] "GET /mb-1768946131536-39b5f3ec329d.jpg HTTP/1.1" 200 -
+::1 - - [29/Jun/2026 17:29:37] code 404, message File not found
+::1 - - [29/Jun/2026 17:29:37] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [29/Jun/2026 17:29:41] "GET /index.html?s=4&export=1 HTTP/1.1" 304 -
